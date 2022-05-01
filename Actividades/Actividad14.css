@@ -1,0 +1,42 @@
+.Header {
+
+  text-align:center;
+  font-family:Arial Narrow;
+  font-size:15px;
+  color:white;
+  background-color:#ff0000;
+}
+
+.Cuerpo {
+
+ text-align:center;
+  font-family:Century Gothic;
+  font-size:15px;
+  color:white;
+  background-color:#f2cf05;
+  
+}
+
+.Footer {
+
+ text-align:center;
+  font-family:Arial Narrow;
+  font-size:15px;
+  color:white;
+  background-color:#ff0000;
+  
+}
+
+p {
+
+
+font-family:Arial;
+text-align:center;
+  
+}
+
+a {
+
+color:orange;
+  
+}
